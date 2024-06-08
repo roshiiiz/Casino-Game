@@ -1,0 +1,4 @@
+﻿  Casino.cpp
+E:\Casino Game\Casino.cpp(100,35): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+E:\Casino Game\Casino.cpp(222,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Casino Game.vcxproj -> E:\Casino Game\x64\Debug\Casino Game.exe
